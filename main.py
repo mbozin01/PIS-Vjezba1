@@ -6,3 +6,5 @@ def nova_funkcija():
     
 if __name__ == "__main__":
     main()
+
+# moj komentar - Karolina
